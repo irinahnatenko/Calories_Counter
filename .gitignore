@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+CalorieCounter
+.idea
+/.gitignore
+/App.py
+/Procfile.txt
+/requirements.txt
