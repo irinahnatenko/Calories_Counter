@@ -61,7 +61,7 @@ jupyter_server==2.2.0
 jupyter_server_terminals==0.4.4
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.5
-kaleido==0.1.0.post1
+kaleido==0.2.1
 kiwisolver==1.4.4
 Markdown==3.4.1
 markdown-it-py==2.1.0
