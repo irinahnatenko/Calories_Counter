@@ -42,7 +42,7 @@ bar_chart = px.bar(df_grouped,
 st.plotly_chart(bar_chart)
 
 pie_chart = px.pie(df,
-                   title = 'Calories by Categories',
+                   title = 'Calories by Category',
                    values = 'Calories',
                    names = 'Category')
 
